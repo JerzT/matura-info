@@ -9,5 +9,3 @@
 - Czerwiec 2022
 - Grudzień 2022
 - Maj 2021
-## To Do:
-- Grudzień 2021
